@@ -13,3 +13,9 @@ Required Features
 ✅The web app uses only HTML, CSS, and JavaScript without a frontend framework.
 ✅The web app is connected to a PostgreSQL database.
 ✅The PostgreSQL database includes a table that matches the data displayed in the web app.
+
+- Lab Two
+  <img src='/public/videos/Labtwo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+ <img src='/public/videos/PostgresDatabase.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ Detail Page
